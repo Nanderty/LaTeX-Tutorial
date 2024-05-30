@@ -27,7 +27,8 @@ In der Praxis bedeutet das Folgendes:
 a) Du kannst den online Overleaf Editor nutzen: https://www.overleaf.com/
 Vorteile:
 
-1) Overleaf ist alles gleichzeitig: text Editor, Compiler, PDF viewer 
+1) Overleaf ist alles gleichzeitig: text Editor, Compiler, PDF viewer
+
 Nachteile:
 1) Braucht Internet
 2) Braucht einen Account
