@@ -1,7 +1,5 @@
 # LaTeX-Tutorial
 
-So, jetzt endlich zum LaTeX tutorial:
-
 Hier bekommt man eine schöne Übersicht über LaTeX: https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes
 
 Der letzte Abschnitt ist besonders wichtig, meines erachtens sind LaTeX packages die größte Stärke von LaTeX.
@@ -18,7 +16,7 @@ Diese PDF kannst Du dir dann ansehen, und entscheiden was Du daran ändern wills
 
 Wichtig ist hier, dass das Programm das Du zum Ansehen der PDF verwendest, es selbst merkt wenn sich die PDF ändert. Das tun z.B. Webbrowser(Firefox, Chrome, Edge) meist nicht.
 
-Das heisst Du musst Dir im Prinzip 3 Programme aussuchen, die Du im Prinzip unabhängig voneineander wählen kannst:
+#Das heisst Du musst Dir im Prinzip 3 Programme aussuchen, die Du im Prinzip unabhängig voneineander wählen kannst:
 
 1) Einen text editor zum schreiben der .tex Datei
 2) Einen LaTeX compiler, der die .tex Datei in ein PDF umwandelt
