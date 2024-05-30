@@ -23,3 +23,16 @@ Das heisst Du musst Dir im Prinzip 3 Programme aussuchen, die Du im Prinzip unab
 1) Einen text editor zum schreiben der .tex Datei
 2) Einen LaTeX compiler, der die .tex Datei in ein PDF umwandelt
 3) Ein Programm zum ansehen der PDF, das es merkt wenn sich die PDF ändert. Ein sogenannter PDF viewer
+
+In der Praxis bedeutet das Folgendes:
+
+a) Du kannst den online Overleaf Editor nutzen: https://www.overleaf.com/
+Vorteile:
+
+1) Overleaf ist alles gleichzeitig: text Editor, Compiler, PDF viewer 
+Nachteile:
+1) Braucht Internet
+2) Braucht einen Account
+3) Ist langsam
+4) Funktioniert nicht bei großen Dokumenten(meine Protokolle schafft es nicht)
+5) Wenn man doch große Dokumente mit Overleaf erstellen will muss man dafür zahlen.
