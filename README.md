@@ -72,3 +72,22 @@ Einige allgemeine Tipps:
 3. TeX Live enthält direkt alle sogenannten Packages, das sind Erweiterungen die andere Nutzer geschrieben haben. Diese Packages machen es deutlich einfacher Dokumente zu erstellen.
 4. Auf CTAN(https://ctan.org/?lang=en) findest Du alle seriösen Packages die Du jemals brauchen wirst. Aber, wie gesagt, mit TexLive sind alle bereits installiert.
 5. Auf CTAN findest Du aber Erklärungen was Du mit einem Package machen kannst.
+
+![image](https://github.com/Nanderty/LaTeX-Tutorial/assets/89153936/6c5ba50a-fb38-485c-97d6-f74ce56856d5)
+
+![image](https://github.com/Nanderty/LaTeX-Tutorial/assets/89153936/59cf55a6-10a1-4691-97cc-5e294fc76e39)
+
+Hier kannst Du dann auf "Chemmacros package documentation" klicken. Das öffnet ein PDF in dem lang und breit erklärt ist, wie man dieses Package verwendet und was es alles kann.
+
+Dieser Arbeitsablauf ist im Prinzip immer gleich:
+1. Google: "How can I do this or that in LaTeX"
+2. Man bei Overleaf/Tex stackexchange/... eine Erklärung
+3. ODER man erhält bei Overleaf/Tex stackexchange/... eine Empfehlung für ein Package
+4. Google: "LaTeX <Name des Packages>"
+5. Auf die CTAN Seite des Packages gehen
+6. PDF das erklärt wie man das Package benutzt herunderladen, lesen und verstehen
+7. Profit
+
+Generell kann man bei großen/häufig verwendeten Packages oft direkt den Namen des Packages und was man damit machen will googeln, z.B:
+
+Google: "pgfplots change graph color"
