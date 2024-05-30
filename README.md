@@ -38,13 +38,13 @@ Nachteile:
 5) Wenn man doch große Dokumente mit Overleaf erstellen will muss man dafür zahlen.
 
 b1) Du verwendest bei dir lokal einen Text Editor, ich habe in dem Fall zwei Empfehlungen:
-1) Vscode: https://code.visualstudio.com/#alt-downloads
+b1a) Vscode: https://code.visualstudio.com/#alt-downloads
 Vorteile:
 1. Ein guter Texteditor, wie gewohnt und leicht zu bedienen.
 Nachteile:
 1. Verhältnismässig langsam bei der verwendung (mit etwas Übung aber immernoch schneller als Word)
 
-2) NeoVim: https://neovim.io/
+b1b) NeoVim: https://neovim.io/
 Vorteile:
 1. Unheimlich schnell: startet schnell, braucht wenig rescourcen, kann riesige Dateien schnell öffnen
 2. Wenn man die Bedienung gelernt hat schreibt man mit NeoVim um den Faktor 2-4 mal schneller als mit z.B. VSCode
@@ -52,3 +52,23 @@ Vorteile:
 Nachteile:
 1. Sehr schwer zu lernen
 2. Sehr schwer einzustellen, bzw. zu lernen wie man NeoVim einstellt.
+
+b2) In diesem Fall brauchst Du auch einen lokalen LaTeX compiler, hier gibt es zwar mehrere Möglichkeiten, aber eine ist in jeder hinsicht besser als die Anderen und läuft auf jedem Betriebssystem:
+
+TeX Live: https://tug.org/texlive/
+
+b3) Ein Programm zum ansehen der produzierten PDF Datei, ein sogenannter PDF viewer.
+
+Hier ist es betriebssystem abhängig was am besten funktioniert, meine Empfehlung ist wie folgt:
+Windows:
+1. Sumatra PDF: https://www.sumatrapdfreader.org/free-pdf-reader
+Linux/BSD/Mac:
+1. Zathura: https://pwmt.org/projects/zathura/
+
+Nun zurück zu LaTeX. Am besten Du arbeitest alles bisher geschickte ab bevor Du dich an diesen Teil machst.
+Einige allgemeine Tipps:
+1. Du kannst bezüglich LaTeX alles direkt googeln, selbst spezifische Dinge wie "How to plot .csv data in latex"
+2. Bei den Ergebnissen sind besonders die Erklärungen auf Overleaf(https://www.overleaf.com/learn), die Ergebnisse von TeX stackexchange (https://tex.stackexchange.com/), von stackoverflow(https://stackoverflow.com/) und LaTeX Community(https://latex.org/forum/index.php) gut.
+3. TeX Live enthält direkt alle sogenannten Packages, das sind Erweiterungen die andere Nutzer geschrieben haben. Diese Packages machen es deutlich einfacher Dokumente zu erstellen.
+4. Auf CTAN(https://ctan.org/?lang=en) findest Du alle seriösen Packages die Du jemals brauchen wirst. Aber, wie gesagt, mit TexLive sind alle bereits installiert.
+5. Auf CTAN findest Du aber Erklärungen was Du mit einem Package machen kannst.
