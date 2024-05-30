@@ -36,3 +36,19 @@ Nachteile:
 3) Ist langsam
 4) Funktioniert nicht bei großen Dokumenten(meine Protokolle schafft es nicht)
 5) Wenn man doch große Dokumente mit Overleaf erstellen will muss man dafür zahlen.
+
+b1) Du verwendest bei dir lokal einen Text Editor, ich habe in dem Fall zwei Empfehlungen:
+1) Vscode: https://code.visualstudio.com/#alt-downloads
+Vorteile:
+1. Ein guter Texteditor, wie gewohnt und leicht zu bedienen.
+Nachteile:
+1. Verhältnismässig langsam bei der verwendung (mit etwas Übung aber immernoch schneller als Word)
+
+2) NeoVim: https://neovim.io/
+Vorteile:
+1. Unheimlich schnell: startet schnell, braucht wenig rescourcen, kann riesige Dateien schnell öffnen
+2. Wenn man die Bedienung gelernt hat schreibt man mit NeoVim um den Faktor 2-4 mal schneller als mit z.B. VSCode
+3. Praktisch unendlich viele einstellungsmöglichkeiten
+Nachteile:
+1. Sehr schwer zu lernen
+2. Sehr schwer einzustellen, bzw. zu lernen wie man NeoVim einstellt.
